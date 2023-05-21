@@ -1,12 +1,8 @@
 # Expense Tracker
 This is a API project for `User`s to manage their expenses/`Product`s. `User` can create, read, update, and delete his/her `Product`s to manage their money.
 
----
-### Try Link (AWS Deployment - Swagger UI)
-    `http://ec2-15-206-30-98.ap-south-1.compute.amazonaws.com:8080/swagger-ui/index.html`
----
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot "Spring Boot") ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white "Java") ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman") ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white "Google Chrome")
+---
 
 ## Frameworks and Languages
 ![Java v17](https://img.shields.io/badge/Java-v17-green "Java 17") ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v3.0.7-brightgreen "Spring Boot v3.0.7")
@@ -14,6 +10,9 @@ This is a API project for `User`s to manage their expenses/`Product`s. `User` ca
 ---
 ## Browser / Tools
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-v112.0.5615.138-yellow "Google Chrome") ![Swagger](https://img.shields.io/badge/Swagger-v3-brightgreen "Swagger") ![Postman](https://img.shields.io/badge/Postman-v10.13.0-orange "Postman")
+---
+### Try Link (AWS Deployment - Swagger UI)
+    http://ec2-15-206-30-98.ap-south-1.compute.amazonaws.com:8080/swagger-ui/index.html
 ---
 
 ## Model
